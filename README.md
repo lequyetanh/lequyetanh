@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Le Quyet Anh 
+My name is Lê Quyết Anh
 
 - 🔭 I’m currently working on HUST
 - 🌱 I’m currently learning Reactjs and Angular
@@ -9,7 +9,7 @@ My name is Le Quyet Anh
 - 💬 Ask me about Javascript and Angular
 - 📫 How to reach me: https://www.facebook.com/lequyetanh.374/
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I like painting and learn propgramming
 
 
 ### Connect with me:
@@ -46,3 +46,8 @@ My name is Le Quyet Anh
 
 <br />
 <br />
+
+### Project:
+https://xemphimplus-c6452.web.app/movie
+https://lequyetanh.github.io/movie
+
