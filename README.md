@@ -22,7 +22,7 @@ My name is Lê Quyết Anh
 
 <br />
 
-### Languages Learning:
+### Languages Front-end Learning:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -36,6 +36,9 @@ My name is Lê Quyết Anh
 <img align="left" alt="ReactJs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Redux" width="26px" src="https://everyday.codes/wp-content/uploads/2020/01/0-U2DmhXYumRyXH6X1.png" />
 
+<br/>
+
+### Languages Back-end Learning:
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Php" width="26px" src="https://purecode.sa/wp-content/uploads/three-4.png" />
 <img align="left" alt="Laravel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" />
@@ -63,7 +66,7 @@ My name is Lê Quyết Anh
 <br/>
 
 ### Project:
-#### Xemphimplus:
+#### Xemphimplus
 https://xemphimplus-c6452.web.app/movie
 <br/>
 https://lequyetanh.github.io/movie
