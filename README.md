@@ -43,8 +43,6 @@ My name is Lê Quyết Anh
 <br />
 
 ### Tool Learning:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Sublime Text3" width="26px" src="https://www.sublimetext.com/images/og.png" />
 <img align="left" alt="FireBase" width="26px" src="https://www.gstatic.com/devrel-devsite/prod/vdb246b8cc5a5361484bf12c07f2d17c993026d30a19ea3c7ace6f0263f62c0dd/firebase/images/touchicon-180.png" />
 <img align="left" alt="Docker" width="26px" src="https://dcowsill.com/images/Moby-logo.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
