@@ -14,11 +14,11 @@ My name is Lê Quyết Anh
 
 ### Connect with me:
 
-<img align="left" alt="FaceBook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="FaceBook" width="22px" src="https://www.facebook.com/images/fb_icon_325x325.png" />
+<img align="left" alt="YouTube" width="22px" src="https://www.freeiconspng.com/thumbs/youtube-logo-png/hd-youtube-logo-png-transparent-background-20.png" />
+<img align="left" alt="Twitter" width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />
+<img align="left" alt="LinkedIn" width="22px" src="http://assets.stickpng.com/thumbs/58e91afdeb97430e81906504.png" />
+<img align="left" alt="Instagram" width="22px" src="https://www.transparentpng.com/thumb/logo-instagram/YfpFOL-logo-instagram-free-transparent.png" />
 
 <br />
 
