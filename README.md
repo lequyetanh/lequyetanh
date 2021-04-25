@@ -37,6 +37,9 @@ My name is Lê Quyết Anh
 <img align="left" alt="Redux" width="26px" src="https://everyday.codes/wp-content/uploads/2020/01/0-U2DmhXYumRyXH6X1.png" />
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Php" width="26px" src="https://purecode.sa/wp-content/uploads/three-4.png" />
+<img align="left" alt="Laravel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" />
+<img align="left" alt="SocketIO" width="26px" src="https://blog.daydevelops.com/storage/cover/2019/11/24/P7ruVkm1evJ0iTabU3zOW7RZcmlPwZZwzH0626JO.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://s.pngix.com/pngfile/s/511-5114782_mongodb-svg-png-download-mongodb-svg-transparent-png.png" />
 <img align="left" alt="MySQL" width="26px" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png?width=256&s=3e825b7205c7f497d4695028e358d26ee359f84b" />
 
@@ -45,7 +48,8 @@ My name is Lê Quyết Anh
 ### Tool Learning:
 <img align="left" alt="FireBase" width="26px" src="https://www.gstatic.com/devrel-devsite/prod/vdb246b8cc5a5361484bf12c07f2d17c993026d30a19ea3c7ace6f0263f62c0dd/firebase/images/touchicon-180.png" />
 <img align="left" alt="Docker" width="26px" src="https://dcowsill.com/images/Moby-logo.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Postman" width="26px" src="https://www.nicepng.com/png/full/776-7760129_update-native-postman-on-ubuntu-postman-tool.png" />
+<img align="left" alt="Git" width="26px" src="https://res.cloudinary.com/dominhhai/image/upload/code/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Ubuntu" width="26px" src="https://www.techrepublic.com/a/hub/i/2016/03/01/eefd8eda-1508-4672-84f7-22a5798fccd8/ubuntuhero.jpg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -59,11 +63,11 @@ My name is Lê Quyết Anh
 <br/>
 
 ### Project:
-## Xemphimplus:
+#### Xemphimplus:
 https://xemphimplus-c6452.web.app/movie
 <br/>
 https://lequyetanh.github.io/movie
-## Quản lý nhà trọ
+#### Quản lý nhà trọ
 https://github.com/lequyetanh/front-end-canvas
 <br/>
 https://github.com/lequyetanh/backend-canvas
