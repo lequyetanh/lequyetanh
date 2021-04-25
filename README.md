@@ -55,6 +55,7 @@ My name is Lê Quyết Anh
 <img align="left" alt="Postman" width="26px" src="https://www.nicepng.com/png/full/776-7760129_update-native-postman-on-ubuntu-postman-tool.png" />
 <img align="left" alt="Git" width="26px" src="https://res.cloudinary.com/dominhhai/image/upload/code/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://www.pngkey.com/png/full/178-1787508_github-icon-download-at-icons8-white-github-icon.png" />
+<img align="left" alt="WordPress" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png" />
 <img align="left" alt="Ubuntu" width="26px" src="https://ubuntuhandbook.org/wp-content/uploads/2014/03/ubuntu-logo-32.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
