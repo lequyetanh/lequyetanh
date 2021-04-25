@@ -11,5 +11,5 @@ My name is Le Quyet Anh
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" width="300" style="fload:left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" width="300" style="float:left">
 <img src="https://ngrx.io/assets/images/badge.svg" width="300">
