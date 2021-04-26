@@ -3,7 +3,7 @@
 My name is Lê Quyết Anh
 
 - 🔭 I’m currently working on HUST
-- 🌱 I’m currently learning Reactjs and Angular
+- 🌱 I’m currently learning Reactjs and Angular ( rxjs operator, lifecycle )
 - 👯 I’m looking to collaborate with software companies
 - 🤔 I’m looking for help with Google and youtube
 - 💬 Ask me about Javascript and Angular
