@@ -66,6 +66,8 @@ My name is Lê Quyết Anh
 <img align="left" alt="NestJs" width="26px" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" />
 <img align="left" alt="NextJs" width="28px" src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/nextjs-logo.png" />
 <img align="left" alt="Ngrx" width="26px" src="https://ngrx.io/assets/images/badge.svg"> 
+<img align="left" alt="Ant Design" width="26px" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" />
+<img align="left" alt="Material UI" width="26px" src="https://opencollective-production.s3.us-west-1.amazonaws.com/ada636e0-395b-11ea-8ab7-b3f0317bbc7c.png" />
 <img align="left" alt="ReactJs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Redux" width="26px" src="https://everyday.codes/wp-content/uploads/2020/01/0-U2DmhXYumRyXH6X1.png" />
 <img align="left" alt="Docker" width="26px" src="https://dcowsill.com/images/Moby-logo.png" />
