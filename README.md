@@ -69,7 +69,7 @@ My name is Lê Quyết Anh
 
 ### Future:
 <img align="left" alt="NestJs" width="26px" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" />
-<img align="left" alt="NextJs" width="26px" style="border-radius:50%" src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/nextjs-logo.png" />
+<img align="left" alt="NextJs" width="28px" src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/nextjs-logo.png" />
 
 <br/>
 
