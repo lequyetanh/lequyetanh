@@ -39,7 +39,6 @@ My name is Lê Quyết Anh
 
 ### Back-end Learning:
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Laravel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" />
 <img align="left" alt="SocketIO" width="26px" src="https://blog.daydevelops.com/storage/cover/2019/11/24/P7ruVkm1evJ0iTabU3zOW7RZcmlPwZZwzH0626JO.png" />
 <img align="left" alt="MongoDB" width="26px" src="http://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/f4a5b21d-66fa-4885-92bf-c4e81c06d916/Image/e5eee315a17de0d7f56117077eb71fa9/mongo.png" />
 <img align="left" alt="MySQL" width="26px" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png?width=256&s=3e825b7205c7f497d4695028e358d26ee359f84b" />
@@ -50,9 +49,6 @@ My name is Lê Quyết Anh
 <img align="left" alt="FireBase" width="26px" src="https://www.gstatic.com/devrel-devsite/prod/vdb246b8cc5a5361484bf12c07f2d17c993026d30a19ea3c7ace6f0263f62c0dd/firebase/images/touchicon-180.png" />
 <img align="left" alt="Postman" width="26px" src="https://www.nicepng.com/png/full/776-7760129_update-native-postman-on-ubuntu-postman-tool.png" />
 <img align="left" alt="Git" width="26px" src="https://res.cloudinary.com/dominhhai/image/upload/code/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://www.pngkey.com/png/full/178-1787508_github-icon-download-at-icons8-white-github-icon.png" />
-<img align="left" alt="Ubuntu" width="26px" src="https://ubuntuhandbook.org/wp-content/uploads/2014/03/ubuntu-logo-32.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 
 
@@ -63,14 +59,9 @@ My name is Lê Quyết Anh
 <br/>
 
 ### Future:
-<img align="left" alt="NestJs" width="26px" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" />
-<img align="left" alt="NextJs" width="28px" src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/nextjs-logo.png" />
 <img align="left" alt="Ngrx" width="26px" src="https://ngrx.io/assets/images/badge.svg"> 
-<img align="left" alt="Ant Design" width="26px" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" />
-<img align="left" alt="Material UI" width="26px" src="https://opencollective-production.s3.us-west-1.amazonaws.com/ada636e0-395b-11ea-8ab7-b3f0317bbc7c.png" />
 <img align="left" alt="Redux" width="26px" src="https://everyday.codes/wp-content/uploads/2020/01/0-U2DmhXYumRyXH6X1.png" />
 <img align="left" alt="Docker" width="26px" src="https://dcowsill.com/images/Moby-logo.png" />
-<img align="left" alt="WordPress" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png" />
 
 <br/>
 
