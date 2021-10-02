@@ -14,12 +14,8 @@ My name is Lê Quyết Anh
 ### Connect with me:
 
 <img align="left" alt="FaceBook" width="22px" src="https://www.facebook.com/images/fb_icon_325x325.png" />
-<img align="left" alt="Zalo" width="22px" src="https://ttttglobal.com/img_data/images/zalo.png" />
-<img align="left" alt="Skype" width="22px" src="https://i.pinimg.com/originals/69/33/1c/69331cd2d47fc0c31bac9c659f829ad9.png" />
 <img align="left" alt="YouTube" width="22px" src="https://www.freeiconspng.com/thumbs/youtube-logo-png/hd-youtube-logo-png-transparent-background-20.png" />
-<img align="left" alt="Twitter" width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />
 <img align="left" alt="LinkedIn" width="22px" src="https://www.waengineering.com/wp-content/uploads/2019/04/linkedin-icon.png" />
-<img align="left" alt="Instagram" width="22px" src="https://www.transparentpng.com/thumb/logo-instagram/YfpFOL-logo-instagram-free-transparent.png" />
 
 <br />
 
