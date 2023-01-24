@@ -36,8 +36,8 @@ My name is Lê Quyết Anh
 
 ### Back-end Learning:
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SocketIO" width="26px" src="https://blog.daydevelops.com/storage/cover/2019/11/24/P7ruVkm1evJ0iTabU3zOW7RZcmlPwZZwzH0626JO.png" />
-<img align="left" alt="MongoDB" width="26px" src="http://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/f4a5b21d-66fa-4885-92bf-c4e81c06d916/Image/e5eee315a17de0d7f56117077eb71fa9/mongo.png" />
+<img align="left" alt="SocketIO" width="26px" src="https://www.bluedoa.com/content/images/2022/12/Socket.io--2-.jpg" />
+<img align="left" alt="MongoDB" width="26px" src="https://miro.medium.com/max/512/1*doAg1_fMQKWFoub-6gwUiQ.png" />
 <img align="left" alt="Sql Server" width="26px" src="https://learn.microsoft.com/dotnet/media/dotnet-logo.png" />
 <img align="left" alt="Sql Server" width="26px" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png?width=256&s=3e825b7205c7f497d4695028e358d26ee359f84b" />
 <br />
@@ -45,7 +45,7 @@ My name is Lê Quyết Anh
 ### Tool:
 <img align="left" alt="Postman" width="26px" src="https://www.nicepng.com/png/full/776-7760129_update-native-postman-on-ubuntu-postman-tool.png" />
 <img align="left" alt="Git" width="26px" src="https://res.cloudinary.com/dominhhai/image/upload/code/git.png" />
-<img align="left" alt="GitHub Desktop" width="26px" src="[https://www.gstatic.com/devrel-devsite/prod/vdb246b8cc5a5361484bf12c07f2d17c993026d30a19ea3c7ace6f0263f62c0dd/firebase/images/touchicon-180.png](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png)" />
+<img align="left" alt="GitHub Desktop" width="26px" src="https://static.techspot.com/images2/downloads/topdownload/2021/04/2021-04-07-ts3_thumbs-8ba.png" />
 <br />
 
 
