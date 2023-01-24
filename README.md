@@ -38,8 +38,8 @@ My name is Lê Quyết Anh
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SocketIO" width="26px" src="https://i1.wp.com/www.ux-republic.com/wp-content/uploads/2018/03/socket.png?fit=375%2C375&ssl=1" />
 <img align="left" alt="MongoDB" width="26px" src="https://miro.medium.com/max/512/1*doAg1_fMQKWFoub-6gwUiQ.png" />
-<img align="left" alt="Sql Server" width="26px" src="https://learn.microsoft.com/dotnet/media/dotnet-logo.png" />
-<img align="left" alt="Sql Server" width="26px" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png?width=256&s=3e825b7205c7f497d4695028e358d26ee359f84b" />
+<img align="left" alt="Dotnet" width="26px" src="https://learn.microsoft.com/dotnet/media/dotnet-logo.png" />
+<img align="left" alt="Sql Server" width="26px" src="https://www.commvault.com/wp-content/uploads/2019/08/sql-server_logo.jpg?quality=80&w=930" />
 <br />
 
 ### Tool:
