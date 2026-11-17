@@ -21,11 +21,47 @@ I'm passionate about building clean, efficient, and user-focused systems, and I'
 
 ### 🛠️ Skills
 
-- **Programming Languages:** JavaScript/TypeScript, Java, HTML5, SCSS
-- **Frameworks/Library:** Angular 10+, Spring Boot, ReactJs, Ngrx, Redux, PrimeNg, Ng-bootstrap
-- **Database:** Sql Server, MongoDB, Redis
-- **Others:** Rabbit MQ, Git, GraphQL, Websocket, AI-assisted
-- **Soft Skills:** Time management, Teamwork
+**Programming Languages**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/sass/sass-original.svg" alt="SCSS" title="SCSS" width="40" height="40" />
+</p>
+
+**Frameworks/Library**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/angular/angular-original.svg" alt="Angular 10+" title="Angular 10+" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" alt="ReactJs" title="ReactJs" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/ngrx/ngrx-original.svg" alt="Ngrx" title="Ngrx" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/redux/redux-original.svg" alt="Redux" title="Redux" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/primeng/primeng-original.svg" alt="PrimeNg" title="PrimeNg" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/bootstrap/bootstrap-original.svg" alt="Ng-bootstrap" title="Ng-bootstrap" width="40" height="40" />
+</p>
+
+**Database**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="Sql Server" title="Sql Server" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/redis/redis-original.svg" alt="Redis" title="Redis" width="40" height="40" />
+</p>
+
+**Others**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/rabbitmq/rabbitmq-original.svg" alt="Rabbit MQ" title="Rabbit MQ" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/graphql/graphql-plain.svg" alt="GraphQL" title="GraphQL" width="40" height="40" />&nbsp;
+  <img src="https://img.shields.io/badge/Websocket-010101?style=for-the-badge" alt="Websocket" height="40" />&nbsp;
+  <img src="https://img.shields.io/badge/AI--assisted-6E40C9?style=for-the-badge" alt="AI-assisted" height="40" />
+</p>
+
+**Soft Skills:** Time management, Teamwork
 
 ---
 
