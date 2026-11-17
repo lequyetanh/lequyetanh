@@ -19,25 +19,13 @@ I'm passionate about building clean, efficient, and user-focused systems, and I'
 
 ---
 
-### 🛠️ Tech stack
+### 🛠️ Skills
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,java,html,scss&theme=light" alt="Languages" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,spring,react,redux,bootstrap&theme=light" alt="Frameworks" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,redis,rabbitmq,graphql,git,postman,vscode,idea&theme=light" alt="Databases and tools" />
-</p>
-
-| | |
-|---|---|
-| **Languages** | JavaScript / TypeScript, Java, HTML5, SCSS |
-| **Frameworks / Libraries** | Angular 10+, Spring Boot, ReactJS, NgRx, Redux, PrimeNG, Ng-bootstrap |
-| **Databases** | SQL Server, MongoDB, Redis |
-| **Others** | RabbitMQ, Git, GraphQL, WebSocket, AI-assisted development |
-| **Soft skills** | Time management, Teamwork |
+- **Programming Languages:** JavaScript/TypeScript, Java, HTML5, SCSS
+- **Frameworks/Library:** Angular 10+, Spring Boot, ReactJs, Ngrx, Redux, PrimeNg, Ng-bootstrap
+- **Database:** Sql Server, MongoDB, Redis
+- **Others:** Rabbit MQ, Git, GraphQL, Websocket, AI-assisted
+- **Soft Skills:** Time management, Teamwork
 
 ---
 
